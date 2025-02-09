@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚀 Trying to contribute toRAGFlow, pushing the boundaries of Retrieval-Augmented Generation.  <br>🤖 Building Machine Learning & Deep Learning*models that make a difference.  <br>💡 For me, ML & DL aren’t just concepts—they’re the real deal!  <br>🔗 Find my real projects here:[GitHub/Shyanil](https://github.com/Shyanil)  <br><br><br><br>
+<br>🚀 Trying to contribute Open source  <br>🤖 Building Machine Learning & Deep Learning*models that make a difference.  <br>💡 For me, ML & DL aren’t just concepts—they’re the real deal!  <br>🔗 Find my real projects here:[GitHub/Shyanil](https://github.com/Shyanil)  <br><br><br><br>
 
 
 ## 🌐 Socials:
